@@ -1,7 +1,0 @@
-/var/lib/jenkins/workspace/Router-V7.0-WR730/openwrt/build_dir/target-mipsel_24kc_musl/firewall-2019-09-23-daed0cf9/CMakeFiles/install/strip.dir
-/var/lib/jenkins/workspace/Router-V7.0-WR730/openwrt/build_dir/target-mipsel_24kc_musl/firewall-2019-09-23-daed0cf9/CMakeFiles/install/local.dir
-/var/lib/jenkins/workspace/Router-V7.0-WR730/openwrt/build_dir/target-mipsel_24kc_musl/firewall-2019-09-23-daed0cf9/CMakeFiles/install.dir
-/var/lib/jenkins/workspace/Router-V7.0-WR730/openwrt/build_dir/target-mipsel_24kc_musl/firewall-2019-09-23-daed0cf9/CMakeFiles/list_install_components.dir
-/var/lib/jenkins/workspace/Router-V7.0-WR730/openwrt/build_dir/target-mipsel_24kc_musl/firewall-2019-09-23-daed0cf9/CMakeFiles/edit_cache.dir
-/var/lib/jenkins/workspace/Router-V7.0-WR730/openwrt/build_dir/target-mipsel_24kc_musl/firewall-2019-09-23-daed0cf9/CMakeFiles/rebuild_cache.dir
-/var/lib/jenkins/workspace/Router-V7.0-WR730/openwrt/build_dir/target-mipsel_24kc_musl/firewall-2019-09-23-daed0cf9/CMakeFiles/firewall3.dir
